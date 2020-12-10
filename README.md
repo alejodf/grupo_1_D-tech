@@ -24,3 +24,10 @@ Dependiendo del tipo de plataforma, se ofrecera formas de pago, opciones de usua
 
 La idea del proyecto es ofrecer ciertos paquetes ya predeterminados para generar la plataforma del cliente, pero tambien ofreciendo la opcion de que cada cliente arme su plataforma de la manera que le guste y con todos los elementos que necesite. 
 
+
+Referencias
+
+https://www.summasolutions.net/
+http://pdssa.com.ar/
+https://waitry.net/es-ar/
+https://www.combinatoria.com.ar/
