@@ -1,4 +1,4 @@
-# grupo_1_D-tech
+# grupo_1_Dtech
 proyecto integrador
 
   
