@@ -12,7 +12,7 @@
 
   
 
-text-decoration: underline <h3><sub>Descripcion:</sub></h3>
+<h3><sub>Descripcion:</sub></h3>
 
   
 
