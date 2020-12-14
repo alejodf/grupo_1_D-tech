@@ -45,4 +45,6 @@ La idea del proyecto es ofrecer ciertos paquetes ya predeterminados para generar
 actualmente me dedico al rubro de la venta de productos varios, no se parece en nada a la programacion. Nunca me habia interiorizado en el tema pero ahora veo que mientras mas 
 te adentrás en esto, mas te entusiasmas. La idea es sacar lo mejor de este curso y el dia de mañana poder aplicarlo al trabajo.</h4>
 
-<h3>Adrian Lunazzi: </h3>
+<h3>Adrian Lunazzi: </h3> <h4>Tengo 36 años, soy diseñador multimedial y quiero incursionar mas en el mundo de la programacion, ya que me gusta mucho la idea de poder crear
+desarrollos o funcionalidades que permitan solucionar distintos tipos de problemas. Actualmente trabajo en una pyme desarrollando sus sitios y teniendo a cargo
+la operacion del ecommerce.</h4>
