@@ -35,7 +35,9 @@ La idea del proyecto es ofrecer ciertos paquetes ya predeterminados para generar
   <li>https://www.producteca.com/</li>
 <up>
 
-<u> Integrantes: </u>
+
+
+<h3><u> Integrantes: </u></h3>
 
 <h3> Alan Telo: </h3>
 
