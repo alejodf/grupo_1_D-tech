@@ -16,7 +16,7 @@
 
   
 
-El proyecto esta dirigido hacia una <big>ecommerce</big> la cual ofrece un sistema de servicio para el rubro empresarial, educativo y de pyme. 
+El proyecto esta dirigido hacia una <big><big>ecommerce</big></big> la cual ofrece un sistema de servicio para el rubro empresarial, educativo y de pyme. 
 
 Se ofrecerá diferentes tipos de propuestas de plataforma ya se para la venta de algun producto o marca, como tambien un tipo de plataforma dirigido hacia el sector de la educacion en cualquier nivel, escolar o universitario.  
 
