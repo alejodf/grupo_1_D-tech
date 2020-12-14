@@ -41,7 +41,7 @@ La idea del proyecto es ofrecer ciertos paquetes ya predeterminados para generar
 
 <h3> Alan Telo: </h3>
 
-<h3> Alejo Del Fabro:</h3> <h4>Desde hace tiempo me viene interesando la idea de la programacion, nunca podia hacerme tiempo o encontrar el lugar adecuado para aprender sobre el tema,
+<h3> Alejo Del Fabro:</h3> <h4>Tengo 27 años, desde hace tiempo me viene interesando la idea de la programacion, nunca podia hacerme tiempo o encontrar el lugar adecuado para aprender sobre el tema,
 actualmente me dedico al rubro de la venta de productos varios, no se parece en nada a la programacion. Nunca me habia interiorizado en el tema pero ahora veo que mientras mas 
 te adentrás en esto, mas te entusiasmas. La idea es sacar lo mejor de este curso y el dia de mañana poder aplicarlo al trabajo.</h4>
 
