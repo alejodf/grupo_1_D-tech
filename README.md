@@ -12,7 +12,7 @@
 
   
 
-<u>Descripcion:</u>
+<h3><u>Descripcion:</u></h3>
 
   
 
@@ -25,7 +25,7 @@ Dependiendo del tipo de plataforma, se ofrecera formas de pago, opciones de usua
 La idea del proyecto es ofrecer ciertos paquetes ya predeterminados para generar la plataforma del cliente, pero tambien ofreciendo la opcion de que cada cliente arme su plataforma de la manera que le guste y con todos los elementos que necesite. 
 
 
-<u>Referencias</u>
+<u> Referencias </u>
 
 <up>
   <li>https://www.summasolutions.net/</li>
@@ -35,12 +35,12 @@ La idea del proyecto es ofrecer ciertos paquetes ya predeterminados para generar
   <li>https://www.producteca.com/</li>
 <up>
 
-<u>Integrantes:</u>
+<u> Integrantes: </u>
 
-<h3>Alan Telo:</h3>
+<h3> Alan Telo: </h3>
 
-Alejo Del Fabro: Desde hace tiempo me viene interesando la idea de la programacion, nunca podia hacerme tiempo o encontrar el lugar adecuado para aprender sobre el tema,
+<h3> Alejo Del Fabro:</h3> Desde hace tiempo me viene interesando la idea de la programacion, nunca podia hacerme tiempo o encontrar el lugar adecuado para aprender sobre el tema,
 actualmente me dedico al rubro de la venta de productos varios, no se parece en nada a la programacion. Nunca me habia interiorizado en el tema pero ahora veo que mientras mas 
 te adentrás en esto, mas te entusiasmas. La idea es sacar lo mejor de este curso y el dia de mañana poder aplicarlo al trabajo.
 
-Adrian Lunazzi: Tengo 36 años, soy diseñador Multimedial y estoy buscando poder meterme de lleno en el area de programacion. Me gusta mucho la tecnologia, y me gusta la idea de poder usar la programacion para poder solucionar problemas. Actualmente trabajo en una pyme y tengo a cargo las webs de la empresa y lidero el area de ecommerce de la misma.
+<h3>Adrian Lunazzi: </h3>
