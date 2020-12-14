@@ -4,7 +4,7 @@
 
 <h2>Nombre del proyecto </h2>
 
- <h1><u>DTECH </u></h1>
+ <h1><u><b>DTECH </b></u></h1>
 
  
 
