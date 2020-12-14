@@ -27,11 +27,11 @@ La idea del proyecto es ofrecer ciertos paquetes ya predeterminados para generar
 
 Referencias
 
-https://www.summasolutions.net/
+https://www.summasolutions.net/ 
 http://pdssa.com.ar/
 https://waitry.net/es-ar/
 https://www.combinatoria.com.ar/
-https://www.producteca.com/
+https://www.producteca.com/ 
 
 Integrantes:
 
