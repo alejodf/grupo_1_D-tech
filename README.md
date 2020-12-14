@@ -43,4 +43,4 @@ Alejo Del Fabro: Desde hace tiempo me viene interesando la idea de la programaci
 actualmente me dedico al rubro de la venta de productos varios, no se parece en nada a la programacion. Nunca me habia interiorizado en el tema pero ahora veo que mientras mas 
 te adentrás en esto, mas te entusiasmas. La idea es sacar lo mejor de este curso y el dia de mañana poder aplicarlo al trabajo.
 
-Adrian Lunazzi
+Adrian Lunazzi: Tengo 36 años, soy diseñador Multimedial y estoy buscando poder meterme de lleno en el area de programacion. Me gusta mucho la tecnologia, y me gusta la idea de poder usar la programacion para poder solucionar problemas. Actualmente trabajo en una pyme y tengo a cargo las webs de la empresa y lidero el area de ecommerce de la misma.
