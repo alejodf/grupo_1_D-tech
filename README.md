@@ -16,13 +16,10 @@
 
   
 
-<h4>El proyecto esta dirigido hacia una ecommerce la cual ofrece un sistema de servicio para el rubro empresarial, educativo y de pyme. 
-
-Se ofrecerá diferentes tipos de propuestas de plataforma ya se para la venta de algun producto o marca, como tambien un tipo de plataforma dirigido hacia el sector de la educacion en cualquier nivel, escolar o universitario.  
-
-Dependiendo del tipo de plataforma, se ofrecera formas de pago, opciones de usuarios y logins.  
-
-La idea del proyecto es ofrecer ciertos paquetes ya predeterminados para generar la plataforma del cliente, pero tambien ofreciendo la opcion de que cada cliente arme su plataforma de la manera que le guste y con todos los elementos que necesite. </h4>
+<h4> Dtech, es una empresa que brindara servicios de desarrollo web y aplicaciones.
+El objetivo de la misma es poder ayudar a toda  empresa o comercio a incorporarse en el mundo digital y asi, poder comenzar a vender en el canal ecommerce o tambien, a poder desarrollar aplicaciones o funcionalidades que potencien el funcionamiento de su negocio.
+El target al que se apunta es a comercios o empresas que aun no tengan presencia en internet o que si la tienen, aun no la esten explotando o que necesiten potenciar sus sitios o negocios con mejores funcionalidades o con aplicaciones.
+En el area de desarrollo web, a los clientes se les ofrecera "paquetes" ya prearmados para desarrollar sus sitios y tambien se le dara la posibilidad de que puedan elegir distintas opciones de desarrollo para poder armarlo a medida de sus necesidades. </h4>
 
 
 <u> Referencias </u>
