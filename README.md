@@ -36,10 +36,9 @@ En el area de desarrollo web, a los clientes se les ofrecera "paquetes" ya prear
 
 <h3><u> Integrantes: </u></h3>
 
-<h3>Alan Telo:</h3> 
+<h3>Alan Telo:</h3> <h4> Tengo 33 años, me dedico a desarrollar comercialmentes productos en distintas industrias desde hace 10 años, hoy en día estoy comenzando a dar mis primeos pasos en el mundo IT y mi deseo es el dia de mañana poder dedicarme a la programacion e implmentaciones de sistemas ya que es algo que me apasiona y distruo mucho. </h4>  
 
-<h3> Alejo Del Fabro:</h3> <h4>Tengo 27 años, desde hace tiempo me viene interesando la idea de la programacion, nunca podia hacerme tiempo o encontrar el lugar adecuado para aprender sobre el tema, actualmente me dedico al rubro de la venta de productos varios, no se parece en nada a la programacion. Nunca me habia interiorizado en el tema pero ahora veo que mientras mas 
-te adentrás en esto, mas te entusiasmas. La idea es sacar lo mejor de este curso y el dia de mañana poder aplicarlo al trabajo.</h4>
+<h3> Alejo Del Fabro:</h3> <h4>Tengo 27 años, desde hace tiempo me viene interesando la idea de la programacion, nunca podia hacerme tiempo o encontrar el lugar adecuado para aprender sobre el tema, actualmente me dedico al rubro de la venta de productos varios, no se parece en nada a la programacion. Nunca me habia interiorizado en el tema pero ahora veo que mientras mas te adentrás en esto, mas te entusiasmas. La idea es sacar lo mejor de este curso y el dia de mañana poder aplicarlo al trabajo.</h4>
 
 <h3>Adrian Lunazzi: </h3> <h4>Tengo 36 años, soy diseñador multimedial y quiero incursionar mas en el mundo de la programacion, ya que me gusta mucho la idea de poder crear
 desarrollos o funcionalidades que permitan solucionar distintos tipos de problemas. Actualmente trabajo en una pyme desarrollando sus sitios y teniendo a cargo
