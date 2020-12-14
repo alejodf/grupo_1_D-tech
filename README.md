@@ -12,7 +12,7 @@
 
   
 
-<h3><del>Descripcion:</del></h3>
+<h3><sub>Descripcion:</sub></h3>
 
   
 
