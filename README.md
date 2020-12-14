@@ -27,16 +27,18 @@ La idea del proyecto es ofrecer ciertos paquetes ya predeterminados para generar
 
 Referencias
 
-https://www.summasolutions.net/ 
+https://www.summasolutions.net/
 http://pdssa.com.ar/
 https://waitry.net/es-ar/
 https://www.combinatoria.com.ar/
-https://www.producteca.com/ 
+https://www.producteca.com/
 
 Integrantes:
 
 Alan Telo:
 
-Alejo Del Fabro:
+Alejo Del Fabro: Desde hace tiempo me viene interesando la idea de la programacion, nunca podia hacerme tiempo o encontrar el lugar adecuado para aprender sobre el tema,
+actualmente me dedico al rubro de la venta de productos varios, no se parece en nada a la programacion. Nunca me habia interiorizado en el tema pero ahora veo que mientras mas 
+te adentrás en esto, mas te entusiasmas. La idea es sacar lo mejor de este curso y el dia de mañana poder aplicarlo al trabajo.
 
 Adrian Lunazzi
